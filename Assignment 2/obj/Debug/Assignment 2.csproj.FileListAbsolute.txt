@@ -1,0 +1,7 @@
+D:\Program Files\C# program\Assignment 2\bin\Debug\Assignment 2.exe.config
+D:\Program Files\C# program\Assignment 2\bin\Debug\Assignment 2.exe
+D:\Program Files\C# program\Assignment 2\bin\Debug\Assignment 2.pdb
+D:\Program Files\C# program\Assignment 2\obj\Debug\Assignment 2.csprojAssemblyReference.cache
+D:\Program Files\C# program\Assignment 2\obj\Debug\Assignment 2.csproj.CoreCompileInputs.cache
+D:\Program Files\C# program\Assignment 2\obj\Debug\Assignment 2.exe
+D:\Program Files\C# program\Assignment 2\obj\Debug\Assignment 2.pdb

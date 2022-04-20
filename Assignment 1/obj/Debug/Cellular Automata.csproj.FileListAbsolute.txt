@@ -1,0 +1,7 @@
+D:\Program Files\C# program\Cellular Automata\bin\Debug\Cellular Automata.exe.config
+D:\Program Files\C# program\Cellular Automata\bin\Debug\Cellular Automata.exe
+D:\Program Files\C# program\Cellular Automata\bin\Debug\Cellular Automata.pdb
+D:\Program Files\C# program\Cellular Automata\obj\Debug\Cellular Automata.csprojAssemblyReference.cache
+D:\Program Files\C# program\Cellular Automata\obj\Debug\Cellular Automata.csproj.CoreCompileInputs.cache
+D:\Program Files\C# program\Cellular Automata\obj\Debug\Cellular Automata.exe
+D:\Program Files\C# program\Cellular Automata\obj\Debug\Cellular Automata.pdb
