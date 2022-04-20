@@ -1,4 +1,4 @@
-# Codes for the scientific computing with numerical examples moudule during my time in UCC
+# Codes for the scientific computing with numerical examples module during my time in UCC
 
 This reporsitory contains all four course projects and a final exam submission, which are all written in C#.
 
@@ -6,4 +6,4 @@ The assignments cover the implementations of a series of automation, machine lea
 
 ## Usage
 
-Each fold contains the whole project with its .sln files derived from the MS vistual studio, while the source codes are extracted additionally in cs files, which could be run directly.
+Each fold contains the whole project with its .sln files derived from the MS vistual studio, while the source codes are extracted additionally in .cs files, which could be run directly.
